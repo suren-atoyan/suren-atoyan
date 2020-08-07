@@ -1,6 +1,7 @@
-# [Suren Atoyan](https://surenatoyan.com/) 👨‍💻
-
 [![GitHub Badge](https://img.shields.io/badge/-@suren--atoyan-%23181717?style=flat&logo=github)](https://github.com/suren-atoyan) [![Gmail Badge](https://img.shields.io/badge/-contact@surenatoyan.com-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:contact@surenatoyan.com)](mailto:contact@surenatoyan.com) [![Website Badge](https://img.shields.io/website?color=0ab9e6&style=flat&up_message=surenatoyan.com&url=http%3A%2F%2Fsurenatoyan.com%2F)](https://surenatoyan.com) [![Twitter Badge](https://img.shields.io/badge/-@suren_at-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/suren_at)](https://twitter.com/suren_at) [![Linkedin Badge](https://img.shields.io/badge/-@surenatoyan-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/surenatoyan/)](https://www.linkedin.com/in/surenatoyan/)
+
+[![Suren Atoyan's github stats](https://github-readme-stats.vercel.app/api?username=suren-atoyan&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide=issues,contribs)](https://github.com/anuraghazra/github-readme-stats)
+
 <!--
 **suren-atoyan/suren-atoyan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
