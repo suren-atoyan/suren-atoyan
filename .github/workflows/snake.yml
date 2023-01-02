@@ -21,6 +21,7 @@ jobs:
           outputs: |
             dist/github-contribution-grid-snake.svg
             dist/github-contribution-grid-snake-dark.svg?palette=github-dark
+            dist/github-contribution-grid-snake-light.svg?palette=github-light
       # push the content of <build_dir> to a branch
       # the content will be available at https://raw.githubusercontent.com/suren-atoyan/suren-atoyan/output/github-contribution-grid-snake.svg
       - name: push github-contribution-grid-snake.svg to the output branch
