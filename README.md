@@ -1,6 +1,10 @@
 [![GitHub Badge](https://img.shields.io/badge/-@suren--atoyan-%23181717?style=flat&logo=github)](https://github.com/suren-atoyan) [![Gmail Badge](https://img.shields.io/badge/-contact@surenatoyan.com-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:contact@surenatoyan.com)](mailto:contact@surenatoyan.com) [![Website Badge](https://img.shields.io/website?color=0ab9e6&style=flat&up_message=surenatoyan.com&url=http%3A%2F%2Fsurenatoyan.com%2F)](https://surenatoyan.com) [![Twitter Badge](https://img.shields.io/badge/-@suren_at-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/suren_at)](https://twitter.com/suren_at) [![Linkedin Badge](https://img.shields.io/badge/-@surenatoyan-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/surenatoyan/)](https://www.linkedin.com/in/surenatoyan/)
 
-![snake](https://raw.githubusercontent.com/suren-atoyan/suren-atoyan/output/github-contribution-grid-snake-dark.svg)
+<picture>
+ <source media="(prefers-color-scheme: dark)" srcset="[https://user-images.githubusercontent.com/25423296/163456776-7f95b81a-f1ed-45f7-b7ab-8fa810d529fa.png](https://raw.githubusercontent.com/suren-atoyan/suren-atoyan/output/github-contribution-grid-dark-snake.svg)">
+ <img alt="snake!" src="https://raw.githubusercontent.com/suren-atoyan/suren-atoyan/output/github-contribution-grid-snake-light.svg">
+</picture>
+
 
 [![Suren Atoyan's github stats](https://github-readme-stats.vercel.app/api?username=suren-atoyan&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide=issues,contribs)](https://github.com/anuraghazra/github-readme-stats)
 
