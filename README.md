@@ -5,9 +5,6 @@
  <img alt="snake!" src="https://raw.githubusercontent.com/suren-atoyan/suren-atoyan/output/github-contribution-grid-snake-light.svg">
 </picture>
 
-
-[![Suren Atoyan's github stats](https://github-readme-stats.vercel.app/api?username=suren-atoyan&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide=issues,contribs)](https://github.com/anuraghazra/github-readme-stats)
-
 <!--
 **suren-atoyan/suren-atoyan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
